@@ -9,7 +9,8 @@ A password wordlist collection for **authorized** PDF password recovery and secu
 | `pdf-crack-10k.txt` | 10,000 | Top 10k most common passwords — fast first-pass dictionary |
 | `pdf-crack-wordlist.txt` | 34,291,013 | Full ~34M password wordlist (large file, not tracked in Git) |
 
-> The full `pdf-crack-wordlist.txt` (~360 MB) exceeds GitHub's file-size limit and is excluded via `.gitignore`. Distribute it separately (release asset, Git LFS, or external storage).
+> The full `pdf-crack-wordlist.txt` (~360 MB) exceeds GitHub's file-size limit and is excluded via `.gitignore`.
+> **Download it from the [latest release](../../releases/latest).**
 
 ## Usage
 
