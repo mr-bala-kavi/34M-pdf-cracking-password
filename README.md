@@ -24,6 +24,10 @@ pdfcrack -f protected.pdf -w pdf-crack-10k.txt
 
 ### John the Ripper
 
+<img src="john-logo.svg" alt="John the Ripper" width="120" align="right" />
+
+This wordlist is built primarily for **John the Ripper** — the passwords here feed its dictionary attack against PDF hashes.
+
 ```bash
 # Extract the hash
 pdf2john protected.pdf > hash.txt
